@@ -350,10 +350,10 @@ export default function TurningWheel() {
             ← All stories
           </Link>
           <Link
-            href="/stories/the-dream-of-brahman"
+            href="/stories/the-fall-and-redemption"
             className="text-[#525252] hover:text-[#737373] text-sm transition-colors"
           >
-            Read: The Dream of Brahman →
+            Read: The Fall and Redemption →
           </Link>
         </nav>
       </div>

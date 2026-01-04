@@ -17,7 +17,7 @@ const stories = [
     slug: "the-fall-and-redemption",
     title: "The Fall and Redemption",
     tagline: "The Christian story of creation, sin, and salvation",
-    available: false,
+    available: true,
   },
   {
     slug: "the-turning-wheel",
