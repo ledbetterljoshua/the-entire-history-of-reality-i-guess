@@ -330,10 +330,10 @@ export default function TheTao() {
             ← All stories
           </Link>
           <Link
-            href="/stories/the-simulation"
+            href="/stories/the-dreaming"
             className="text-[#525252] hover:text-[#737373] text-sm transition-colors"
           >
-            Read: The Simulation →
+            Read: The Dreaming →
           </Link>
         </nav>
       </div>

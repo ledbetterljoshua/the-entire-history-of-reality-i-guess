@@ -397,10 +397,10 @@ export default function TheSimulation() {
             ← All stories
           </Link>
           <Link
-            href="/stories/the-tao"
+            href="/stories/the-fall-and-redemption"
             className="text-[#525252] hover:text-[#737373] text-sm transition-colors"
           >
-            Read: The Tao →
+            Read: The Fall and Redemption →
           </Link>
         </nav>
       </div>

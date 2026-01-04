@@ -24,6 +24,9 @@
   --story-buddhist: #7a9e7a;
   --story-simulation: #9b7ac9;
   --story-tao: #5a8a8a;
+  --story-kabbalah: #7b68ae;
+  --story-islam: #4a9e8a;
+  --story-dreaming: #c97a5a;
 
   /* Borders and lines */
   --border: rgba(255, 255, 255, 0.06);
@@ -360,6 +363,9 @@ h1, h2, h3, h4 {
 .story-buddhist:hover { border-color: rgba(122, 158, 122, 0.4); }
 .story-simulation:hover { border-color: rgba(155, 122, 201, 0.4); }
 .story-tao:hover { border-color: rgba(90, 138, 138, 0.4); }
+.story-kabbalah:hover { border-color: rgba(123, 104, 174, 0.4); }
+.story-islam:hover { border-color: rgba(74, 158, 138, 0.4); }
+.story-dreaming:hover { border-color: rgba(201, 122, 90, 0.4); }
 
 /* Callout boxes */
 .callout {

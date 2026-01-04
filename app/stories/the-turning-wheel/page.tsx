@@ -350,10 +350,10 @@ export default function TurningWheel() {
             ← All stories
           </Link>
           <Link
-            href="/stories/the-fall-and-redemption"
+            href="/stories/the-tao"
             className="text-[#525252] hover:text-[#737373] text-sm transition-colors"
           >
-            Read: The Fall and Redemption →
+            Read: The Tao →
           </Link>
         </nav>
       </div>

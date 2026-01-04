@@ -9,10 +9,10 @@ const stories = [
     className: "story-materialist",
   },
   {
-    slug: "the-dream-of-brahman",
-    title: "The Dream of Brahman",
-    tagline: "Hindu cosmology and the play of consciousness",
-    className: "story-brahman",
+    slug: "the-simulation",
+    title: "The Simulation",
+    tagline: "What if none of this is base reality?",
+    className: "story-simulation",
   },
   {
     slug: "the-fall-and-redemption",
@@ -21,22 +21,40 @@ const stories = [
     className: "story-christian",
   },
   {
+    slug: "the-kabbalah",
+    title: "The Kabbalah",
+    tagline: "The hidden structure of creation",
+    className: "story-kabbalah",
+  },
+  {
+    slug: "the-surrender",
+    title: "The Surrender",
+    tagline: "Islam and the peace of submission",
+    className: "story-islam",
+  },
+  {
+    slug: "the-dream-of-brahman",
+    title: "The Dream of Brahman",
+    tagline: "Hindu cosmology and the play of consciousness",
+    className: "story-brahman",
+  },
+  {
     slug: "the-turning-wheel",
     title: "The Turning Wheel",
     tagline: "Buddhist cosmology and the nature of suffering",
     className: "story-buddhist",
   },
   {
-    slug: "the-simulation",
-    title: "The Simulation",
-    tagline: "What if none of this is base reality?",
-    className: "story-simulation",
-  },
-  {
     slug: "the-tao",
     title: "The Tao",
     tagline: "The way that cannot be spoken",
     className: "story-tao",
+  },
+  {
+    slug: "the-dreaming",
+    title: "The Dreaming",
+    tagline: "Aboriginal Australia and the eternal present",
+    className: "story-dreaming",
   },
 ];
 
@@ -140,30 +158,6 @@ export default function Home() {
               </Link>
             ))}
 
-            {/* Coming soon placeholder */}
-            <div
-              className="block p-6 md:p-8 rounded-lg border border-dashed"
-              style={{
-                borderColor: 'var(--border)',
-                background: 'transparent'
-              }}
-            >
-              <h2
-                className="text-xl md:text-2xl mb-2"
-                style={{
-                  fontFamily: 'var(--font-serif)',
-                  color: 'var(--text-tertiary)'
-                }}
-              >
-                More stories coming...
-              </h2>
-              <p
-                className="text-sm md:text-base"
-                style={{ color: 'var(--text-tertiary)' }}
-              >
-                The Dreaming, Kabbalah, Islam, Indigenous cosmologies, and others
-              </p>
-            </div>
           </nav>
 
           {/* Footer */}

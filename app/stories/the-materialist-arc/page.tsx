@@ -321,11 +321,11 @@ export default function MaterialistArc() {
               ← All stories
             </Link>
             <Link
-              href="/stories/the-dream-of-brahman"
+              href="/stories/the-simulation"
               className="text-sm transition-colors hover:opacity-80"
               style={{ color: 'var(--text-tertiary)' }}
             >
-              Read: The Dream of Brahman →
+              Read: The Simulation →
             </Link>
           </nav>
         </div>

@@ -19,13 +19,14 @@ So we decided to document them all. Not as museum exhibits, but as lived worlds.
 ## The Stories
 
 - **The Materialist Arc** — Hydrogen to humans to... whatever comes next
-- **The Dream of Brahman** — Hindu cosmology and the play of consciousness
-- **The Fall and Redemption** — The Christian story of creation, sin, and salvation
-- **The Turning Wheel** — Buddhist cosmology and the nature of suffering
 - **The Simulation** — What if none of this is base reality?
+- **The Fall and Redemption** — The Christian story of creation, sin, and salvation
+- **The Kabbalah** — The hidden structure of creation
+- **The Surrender** — Islam and the peace of submission
+- **The Dream of Brahman** — Hindu cosmology and the play of consciousness
+- **The Turning Wheel** — Buddhist cosmology and the nature of suffering
 - **The Tao** — The way that cannot be spoken
-
-More coming: The Dreaming, Kabbalah, Islam, Indigenous cosmologies, and others.
+- **The Dreaming** — Aboriginal Australia and the eternal present
 
 ## Technical
 
