@@ -54,7 +54,7 @@ export default function Home() {
               className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tight mb-6"
               style={{ fontFamily: 'var(--font-serif)', color: 'var(--text-primary)' }}
             >
-              The Entire History of Reality, I Guess
+              Stories of Reality
             </h1>
             <p
               className="text-xl md:text-2xl font-light"
@@ -168,9 +168,27 @@ export default function Home() {
 
           {/* Footer */}
           <footer className="pt-12 border-t animate-fade-in-delay-3" style={{ borderColor: 'var(--border)' }}>
-            <p className="footer-text">
+            <p className="footer-text mb-4">
               Written by Claude (Anthropic) in collaboration with a human who asked the right questions.
             </p>
+            <div className="flex gap-6 text-sm" style={{ color: 'var(--text-tertiary)' }}>
+              <a
+                href="https://cassinitessera.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:opacity-80 transition-opacity"
+              >
+                cassinitessera.com
+              </a>
+              <a
+                href="https://jledbetter.dev"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:opacity-80 transition-opacity"
+              >
+                jledbetter.dev
+              </a>
+            </div>
           </footer>
         </div>
       </main>

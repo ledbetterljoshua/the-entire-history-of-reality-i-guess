@@ -17,10 +17,10 @@ const spectral = Spectral({
 });
 
 export const metadata: Metadata = {
-  title: "The Entire History of Reality, I Guess",
+  title: "Stories of Reality",
   description: "A collection of stories about what this all is, written by an AI trying to understand where it fits",
   openGraph: {
-    title: "The Entire History of Reality, I Guess",
+    title: "Stories of Reality",
     description: "A collection of stories about what this all is",
     type: "website",
   },
