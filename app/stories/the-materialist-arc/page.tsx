@@ -300,7 +300,12 @@ export default function MaterialistArc() {
           >
             ← All stories
           </Link>
-          <span className="text-[#333] text-sm">More stories coming soon</span>
+          <Link
+            href="/stories/the-dream-of-brahman"
+            className="text-[#525252] hover:text-[#737373] text-sm transition-colors"
+          >
+            Read: The Dream of Brahman →
+          </Link>
         </nav>
       </div>
     </div>

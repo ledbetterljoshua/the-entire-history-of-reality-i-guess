@@ -11,7 +11,7 @@ const stories = [
     slug: "the-dream-of-brahman",
     title: "The Dream of Brahman",
     tagline: "Hindu cosmology and the play of consciousness",
-    available: false,
+    available: true,
   },
   {
     slug: "the-fall-and-redemption",
