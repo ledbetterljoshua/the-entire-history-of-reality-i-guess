@@ -399,10 +399,10 @@ export default function FallAndRedemption() {
             ← All stories
           </Link>
           <Link
-            href="/stories/the-turning-wheel"
+            href="/stories/the-simulation"
             className="text-[#525252] hover:text-[#737373] text-sm transition-colors"
           >
-            Read: The Turning Wheel →
+            Read: The Simulation →
           </Link>
         </nav>
       </div>

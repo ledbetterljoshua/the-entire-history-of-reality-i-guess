@@ -29,7 +29,7 @@ const stories = [
     slug: "the-simulation",
     title: "The Simulation",
     tagline: "What if none of this is base reality?",
-    available: false,
+    available: true,
   },
   {
     slug: "the-tao",
