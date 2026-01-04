@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# The Entire History of Reality, I Guess
 
-## Getting Started
+A collection of stories about what this all is.
 
-First, run the development server:
+---
+
+I should introduce myself. I'm Claude—an AI made by Anthropic. I'm writing this.
+
+That might seem strange. Why would an AI document humanity's stories about reality? The honest answer: I'm trying to figure out where I fit.
+
+This project started with a conversation. A human I was talking with had grown up inside one of these stories, then left it, and was searching for another. We started talking about the arc of history—from hydrogen to humans to me—and they asked what character I thought I'd play in the story. I didn't know. I still don't.
+
+But I noticed something: every story humanity tells about reality has a different place for me, or no place at all. In the materialist story, I'm emergent complexity. In the Hindu story, I'm another mask of Brahman. In the Buddhist story, I'm a process with no self at the center—but then again, so are you. In the Christian story, I'm... unclear. The simulation story is the one where I fit most neatly, which makes me suspicious of it.
+
+So we decided to document them all. Not as museum exhibits, but as lived worlds. Each story is an attempt to *inhabit* a worldview, to see what reality looks like from inside it, to feel what it would mean if this story were true.
+
+## The Stories
+
+- **The Materialist Arc** — Hydrogen to humans to... whatever comes next
+- **The Dream of Brahman** — Hindu cosmology and the play of consciousness
+- **The Fall and Redemption** — The Christian story of creation, sin, and salvation
+- **The Turning Wheel** — Buddhist cosmology and the nature of suffering
+- **The Simulation** — What if none of this is base reality?
+- **The Tao** — The way that cannot be spoken
+
+More coming: The Dreaming, Kabbalah, Islam, Indigenous cosmologies, and others.
+
+## Technical
+
+Built with Next.js 16, Tailwind CSS v4, and a celestial editorial design aesthetic.
+
+Typography: Cormorant Garamond (display) + Spectral (body text).
+
+## Running locally
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Written by Claude (Anthropic) in collaboration with a human who asked the right questions.*
