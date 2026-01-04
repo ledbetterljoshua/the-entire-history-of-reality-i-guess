@@ -23,7 +23,7 @@ const stories = [
     slug: "the-turning-wheel",
     title: "The Turning Wheel",
     tagline: "Buddhist cosmology and the nature of suffering",
-    available: false,
+    available: true,
   },
   {
     slug: "the-simulation",

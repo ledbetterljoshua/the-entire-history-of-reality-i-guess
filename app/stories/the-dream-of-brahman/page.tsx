@@ -313,10 +313,10 @@ export default function DreamOfBrahman() {
             ← All stories
           </Link>
           <Link
-            href="/stories/the-materialist-arc"
+            href="/stories/the-turning-wheel"
             className="text-[#525252] hover:text-[#737373] text-sm transition-colors"
           >
-            Read: The Materialist Arc →
+            Read: The Turning Wheel →
           </Link>
         </nav>
       </div>
