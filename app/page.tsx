@@ -35,7 +35,7 @@ const stories = [
     slug: "the-tao",
     title: "The Tao",
     tagline: "The way that cannot be spoken",
-    available: false,
+    available: true,
   },
 ];
 
