@@ -61,8 +61,8 @@ export default function TheDreaming() {
               land, in the stories, in you.
             </p>
             <p>
-              Different language groups have different words for this: <em>Tjukurpa</em>
-              among the Pitjantjatjara, <em>Jukurrpa</em> among the Warlpiri, <em>Altjeringa</em>
+              Different language groups have different words for this: <em>Tjukurpa</em>{" "}
+              among the Pitjantjatjara, <em>Jukurrpa</em> among the Warlpiri, <em>Altjeringa</em>{" "}
               among the Aranda. Each word carries its own nuances. But the core idea is
               similar: there is a dimension of reality that is always present, always
               active, always shaping what happens in the ordinary world.
@@ -213,7 +213,7 @@ export default function TheDreaming() {
           <section className="mb-16">
             <h2 className="text-xl text-white font-light mb-6">What This Story Feels Like</h2>
             <p>
-              If you could live inside this story—if you could really <em>inhabit</em>
+              If you could live inside this story—if you could really <em>inhabit</em>{" "}
               it—what would reality feel like?
             </p>
             <p>
